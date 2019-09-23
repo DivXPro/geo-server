@@ -14,7 +14,11 @@ const tileSources = [
   {
     source: 'demo',
     path: 'mbtiles/demo.mbtiles',
-  }
+  },
+  {
+    source: 'shanghai',
+    path: 'mbtiles/shanghai.mbtiles',
+  },
 ];
 
 @Injectable()
